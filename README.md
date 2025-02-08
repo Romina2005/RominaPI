@@ -50,7 +50,6 @@ diferite materii, etc.
 •Clase principale:
 •UIManagerUtil – Personalizează aspectul grafic al aplicației.
 
-![Alt text](Diagram.png)
 
 
 ## Functionalitati/Exemple utilizare
